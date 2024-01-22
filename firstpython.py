@@ -1,3 +1,4 @@
 #python file added through github
-
-print("Hello world!")
+x = 2
+y = 4
+print(x + y)
